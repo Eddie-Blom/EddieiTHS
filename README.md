@@ -3,7 +3,7 @@
 <h3 align="center">An creative Frontend developer student at IT-Högskolan  :sweden: </h3>
 
 - 🌱 I’m currently learning **react**
-- 📫 How to reach me **email.sutcu<!-- Hello -->@gmail<!-- World -->.com or eddie.sutcu@iths.se**
+- 📫 How to reach me **email.sutcu@gmail.com or eddie.sutcu@iths.se**
 
 
 <h3 align="left">:wrench: Languages and Tools:</h3>
