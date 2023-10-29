@@ -1,8 +1,8 @@
 <div align="center">:octocat:</div>
 <h1 align="center">Hi there 👋, I'm Eddie Blom Sütcü </h1>
-<h3 align="center">An creative Frontend developer student at IT-Högskolan  :sweden: </h3>
+<h3 align="center">An creative Full-stack developer  :sweden: </h3>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I Love **react**
 - 📫 How to reach me **email.sutcu@gmail.com or eddie.sutcu@iths.se**
 
 
