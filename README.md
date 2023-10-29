@@ -3,7 +3,7 @@
 <h3 align="center">An creative Full-stack developer  :sweden: </h3>
 
 - 🌱 I Love **react**
-- 📫 How to reach me **email.sutcu@gmail.com or eddie.sutcu@iths.se**
+- 📫 How to reach me **email.sutcu@gmail.com**
 
 
 <h3 align="left">:wrench: Languages and Tools:</h3>
