@@ -1,5 +1,5 @@
 <div align="center">:octocat:</div>
-<h1 align="center">Hi there 👋, I'm Eddie Blom Sütcü </h1>
+<h1 align="center">Hi there 👋, I'm Eddie Blom </h1>
 <h3 align="center">An creative Full-stack developer  :sweden: </h3>
 
 - 🌱 I Love **react**
