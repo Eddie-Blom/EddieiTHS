@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="100" height="100" />
 </div>
 
-<h1 align="center">Hi there! 👋 I'm Eddie Sütcü</h1>
+<h1 align="center">Hi there! 👋 I'm Erdem Sütcü</h1>
 <h3 align="center">A creative Full-stack Developer from :sweden:</h3>
 
 <p align="center">
